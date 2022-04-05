@@ -1,0 +1,72 @@
+[
+    {
+        "userId": 1,
+        "username": "ali",
+        "contact": "998941024578"
+    },
+    {
+        "userId": 2,
+        "username": "nosir",
+        "contact": "998941023697"
+    },
+    {
+        "userId": 3,
+        "username": "aziza",
+        "contact": "998941028520"
+    },
+    {
+        "userId": 4,
+        "username": "alisher",
+        "contact": "998971024578"
+    },
+    {
+        "userId": 5,
+        "username": "donishmand",
+        "contact": "998941025689"
+    },
+    {
+        "userId": 6,
+        "username": "alisherjon",
+        "contact": "998941205487"
+    },
+    {
+        "userId": 7,
+        "username": "nima",
+        "contact": "998991234567"
+    },
+    {
+        "userId": 8,
+        "username": "Nobody",
+        "contact": "998970000000"
+    },
+    {
+        "userId": 9,
+        "username": "TimaFilli",
+        "contact": "998932394455"
+    },
+    {
+        "userId": 10,
+        "username": "Victor",
+        "contact": "998915616004"
+    },
+    {
+        "userId": 11,
+        "username": "Jamshid",
+        "contact": "998903511511"
+    },
+    {
+        "userId": 12,
+        "username": "Jamshid",
+        "contact": "998903511511"
+    },
+    {
+        "userId": 13,
+        "username": "hojiakbar",
+        "contact": "998905426677"
+    },
+    {
+        "userId": 14,
+        "username": "Samandar",
+        "contact": "998975661009"
+    }
+]
